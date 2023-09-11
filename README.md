@@ -1,4 +1,4 @@
-# Exemplar: Perform Multiple Linear Regression Analysis
+# Multiple Linear Regression Analysis
 
 ## Introduction
 This lab focuses on performing a multiple linear regression analysis using a dataset containing a small business's historical marketing promotion data. The objective is to estimate the sales from a combination of independent variables, such as TV, radio, and social media promotions. 
